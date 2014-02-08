@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Template>
+  <Project Id="1" Description="">
+    <GlobalData>
+
+    </GlobalData>
+    
+    <ControlInfo>
+      <Control Name="SearchBox" FindBy="Name" Value="q" Tag="input" />
+      <Control Name="SearchBtn" FindBy="Name" Value="go" Tag="input" />
+    </ControlInfo>
+    
+    <TestData>
+      <TestCase Id="1" Description="Test Search at Home Page">
+        <searchText>njnu</searchText>
+        <verifiedLink>www.njnu.edu.cn</verifiedLink>
+      </TestCase>
+      <TestCase Id="2" Description="">
+        
+      </TestCase>
+    </TestData>
+  </Project>
+</Template>
