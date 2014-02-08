@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Template>
+  <Project Id="1" Description="">
+    <GlobalData>
+
+    </GlobalData>
+    
+    <ControlInfo>
+      <Control Name="" FindBy="" Value="" Tag="" />
+      <Control Name="" FindBy="" Value="" Tag="" />
+    </ControlInfo>
+    
+    <TestData>
+      <TestCase Id="6749" Description="">
+        
+      </TestCase>
+              
+    </TestData>
+  </Project>
+</Template>

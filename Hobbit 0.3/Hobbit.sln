@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Framework", "Framework", "{161072C0-1135-47A7-8C3C-5B3B998753A9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "AUT", "AUT", "{43F647BE-BBDF-4515-A1D3-BA59B452217F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hobbit.Framework", "Hobbit.Framework\Hobbit.Framework.csproj", "{A5037F54-5804-4EF0-8E82-60129C8EF6FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamicWebDemo", "DynamicWebDemo\DynamicWebDemo.csproj", "{9B5E6CB0-F61A-4A5E-9A0F-BE06F24CF584}"
+EndProject
+Global
+	GlobalSection(TestCaseManagementSettings) = postSolution
+		CategoryFile = Hobbit.vsmdi
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5037F54-5804-4EF0-8E82-60129C8EF6FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5037F54-5804-4EF0-8E82-60129C8EF6FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5037F54-5804-4EF0-8E82-60129C8EF6FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5037F54-5804-4EF0-8E82-60129C8EF6FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B5E6CB0-F61A-4A5E-9A0F-BE06F24CF584}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B5E6CB0-F61A-4A5E-9A0F-BE06F24CF584}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B5E6CB0-F61A-4A5E-9A0F-BE06F24CF584}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B5E6CB0-F61A-4A5E-9A0F-BE06F24CF584}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{A5037F54-5804-4EF0-8E82-60129C8EF6FF} = {161072C0-1135-47A7-8C3C-5B3B998753A9}
+		{9B5E6CB0-F61A-4A5E-9A0F-BE06F24CF584} = {43F647BE-BBDF-4515-A1D3-BA59B452217F}
+	EndGlobalSection
+EndGlobal
